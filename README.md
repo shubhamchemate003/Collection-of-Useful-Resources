@@ -1,2 +1,6 @@
 # Famous-Github-Repos
-Most Famous and useful Github Repositories and web articles I came across during my interview preparation
+Collection of useful articles on web in the domain of computer science
+
+- What happens when you type google.com into your browser's address box and press enter? 
+  - [Alex GitHub](https://github.com/alex/what-happens-when)
+  - [Nassar Hussain Youtube](https://www.youtube.com/watch?v=dh406O2v_1c)
