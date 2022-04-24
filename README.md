@@ -1,4 +1,4 @@
-# Famous-Github-Repos
+# Useful Resources
 Collection of useful articles on web in the domain of computer science
 
 - What happens when you type google.com into your browser's address box and press enter? 
