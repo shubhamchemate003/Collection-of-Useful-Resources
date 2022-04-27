@@ -48,6 +48,8 @@ Collection of useful articles on web in the domain of computer science
 
 ## System Design
 - Donne System Design Primer [Github Repo](https://github.com/donnemartin/system-design-primer)
+- Gaurav Sen Sytem Design Playlist
+- Tushar Roy Sytem Design Intro Video
 
 
 ## To Cover
